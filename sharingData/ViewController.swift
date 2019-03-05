@@ -10,13 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
-     let message = "Hello Git!"
+    @IBOutlet weak var lbl_name: UILabel!
+    let message = "Hello Git!"
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print(message)
         print(reverse(text: "stressed"))
+        lbl_name.text = reverse(text: "stressed")
     }
 
 

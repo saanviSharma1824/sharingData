@@ -16,6 +16,7 @@
 		047A1087222E822B00E02233 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1086222E822B00E02233 /* TestViewController.swift */; };
 		047A108D222E835D00E02233 /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A108C222E835D00E02233 /* BViewController.swift */; };
 		047A1091222E84D600E02233 /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1090222E84D600E02233 /* AViewController.swift */; };
+		047A1093222E850E00E02233 /* CViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1092222E850E00E02233 /* CViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		047A1086222E822B00E02233 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		047A108C222E835D00E02233 /* BViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
 		047A1090222E84D600E02233 /* AViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
+		047A1092222E850E00E02233 /* CViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				047A1086222E822B00E02233 /* TestViewController.swift */,
 				047A108C222E835D00E02233 /* BViewController.swift */,
 				047A1090222E84D600E02233 /* AViewController.swift */,
+				047A1092222E850E00E02233 /* CViewController.swift */,
 			);
 			path = sharingData;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			files = (
 				047A1085222E81D600E02233 /* PushFileViewController.swift in Sources */,
 				047A108D222E835D00E02233 /* BViewController.swift in Sources */,
+				047A1093222E850E00E02233 /* CViewController.swift in Sources */,
 				042FB7F8222E56BA00EFB6D5 /* ViewController.swift in Sources */,
 				047A1087222E822B00E02233 /* TestViewController.swift in Sources */,
 				047A1091222E84D600E02233 /* AViewController.swift in Sources */,

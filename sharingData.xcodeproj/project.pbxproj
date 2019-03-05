@@ -14,6 +14,7 @@
 		042FB800222E56C500EFB6D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042FB7FE222E56C500EFB6D5 /* LaunchScreen.storyboard */; };
 		047A1085222E81D600E02233 /* PushFileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1084222E81D600E02233 /* PushFileViewController.swift */; };
 		047A1087222E822B00E02233 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1086222E822B00E02233 /* TestViewController.swift */; };
+		047A1089222E826900E02233 /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1088222E826900E02233 /* AViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		042FB801222E56C500EFB6D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047A1084222E81D600E02233 /* PushFileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushFileViewController.swift; sourceTree = "<group>"; };
 		047A1086222E822B00E02233 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		047A1088222E826900E02233 /* AViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				042FB801222E56C500EFB6D5 /* Info.plist */,
 				047A1084222E81D600E02233 /* PushFileViewController.swift */,
 				047A1086222E822B00E02233 /* TestViewController.swift */,
+				047A1088222E826900E02233 /* AViewController.swift */,
 			);
 			path = sharingData;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				042FB7F8222E56BA00EFB6D5 /* ViewController.swift in Sources */,
 				047A1087222E822B00E02233 /* TestViewController.swift in Sources */,
 				042FB7F6222E56BA00EFB6D5 /* AppDelegate.swift in Sources */,
+				047A1089222E826900E02233 /* AViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

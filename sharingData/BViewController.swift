@@ -1,5 +1,5 @@
 //
-//  AViewController.swift
+//  BViewController.swift
 //  sharingData
 //
 //  Created by emitech990 on 05/03/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class AViewController: UIViewController {
+class BViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

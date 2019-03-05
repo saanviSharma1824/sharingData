@@ -13,6 +13,7 @@
 		042FB7FD222E56C500EFB6D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042FB7FC222E56C500EFB6D5 /* Assets.xcassets */; };
 		042FB800222E56C500EFB6D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042FB7FE222E56C500EFB6D5 /* LaunchScreen.storyboard */; };
 		047A1085222E81D600E02233 /* PushFileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1084222E81D600E02233 /* PushFileViewController.swift */; };
+		047A1087222E822B00E02233 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A1086222E822B00E02233 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		042FB7FF222E56C500EFB6D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042FB801222E56C500EFB6D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047A1084222E81D600E02233 /* PushFileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushFileViewController.swift; sourceTree = "<group>"; };
+		047A1086222E822B00E02233 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				042FB7FE222E56C500EFB6D5 /* LaunchScreen.storyboard */,
 				042FB801222E56C500EFB6D5 /* Info.plist */,
 				047A1084222E81D600E02233 /* PushFileViewController.swift */,
+				047A1086222E822B00E02233 /* TestViewController.swift */,
 			);
 			path = sharingData;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				047A1085222E81D600E02233 /* PushFileViewController.swift in Sources */,
 				042FB7F8222E56BA00EFB6D5 /* ViewController.swift in Sources */,
+				047A1087222E822B00E02233 /* TestViewController.swift in Sources */,
 				042FB7F6222E56BA00EFB6D5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
